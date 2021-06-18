@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML5, CSS3, JavaScript, Python and Java</strong>
+ 💬 Languages: <strong>HTML5, CSS3, JavaScript, Python and Java</strong>
 </p>
 
 <p align="left">
@@ -16,14 +16,12 @@
 
 
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabriel.amara98@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-amara/" /></a>
+ <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
+ <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-amara/" /></a>
 
-
+<a href="https://www.instagram.com/gabiel.amara98/"  alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabiel.amara98/"></a>
 
 
 <hr>
