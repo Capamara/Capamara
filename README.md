@@ -3,7 +3,11 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=Capamara&theme=tokyonight)](https://github.com/Capamara/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara&hide=html&layout=compact&theme=tokyonight)](https://github.com/Capamara/)
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara)](https://github.com/Capamara/github-readme-stats)
+
 
 
 
