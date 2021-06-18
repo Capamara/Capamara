@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)]
+[![card](https://github-readme-stats.vercel.app/api?username=Capamara&theme=default)](https://github.com/Capamara/)
+
 
 <br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara&hide=html&layout=compact&theme=tokyonight)](https://github.com/Capamara/)
