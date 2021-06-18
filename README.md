@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capamara&show_icons=true&theme=radical)
 <br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara&hide=html&layout=compact&theme=default)](https://github.com/Capamara/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara&hide=html&layout=compact&theme=Tokyonight)](https://github.com/Capamara/)
 
 
 
