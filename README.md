@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capamara&show_icons=true&theme=Tokyonight)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+
 <br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Capamara&hide=html&layout=compact&theme=tokyonight)](https://github.com/Capamara/)
 
