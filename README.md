@@ -1,6 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=Capamara&theme=tokyonight"
- align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Capamara&show_icons=true&theme=tokyonight" align="right">
 
 <p align="left"> 
   Hello, my name is Gabriel I am studying to be a <strong>developer!</strong>
