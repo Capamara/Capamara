@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
- 💬 Languages: <strong>HTML5, CSS3, JavaScript, Python and Java</strong>
+ 💬 Languages: <strong>HTML5, CSS3, JavaScript, Python, Java, React, Oracle</strong>
 </p>
 
 <p align="left">
-  💌 Hey, if you need any information or review my projects. Please follow the medias below to contact me: ⤵️
+  💌 Hey, if you need any information or rate my projects. Please follow the medias below to contact me: ⤵️
 </p>
 
  <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
