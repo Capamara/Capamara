@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 💬 Languages: <strong>HTML5, CSS3, JavaScript, Python, Java, React, Oracle</strong>
+ 💬 Languages: <strong>HTML5, CSS3, JavaScript, Python, Java, ReactJs</strong>
 </p>
 
 <p align="left">
