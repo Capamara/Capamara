@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💌 Hey, if you need any information or reviews of my projects. Please follow the medias below to contact me: ⤵️
+  💌 Hey, if you need any information or review my projects. Please follow the medias below to contact me: ⤵️
 </p>
 
  <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
