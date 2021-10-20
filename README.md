@@ -12,12 +12,13 @@
 <p align="left">
   💌 Hey, if you need any information or rate my projects. Please follow the medias below to contact me: ⤵️
 </p>
-
- <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
+  
+  <img src="https://cdn.discordapp.com/attachments/823526669737394218/900462080933658634/ezgif.com-gif-maker.gif" width=150px height=150px>
+  <a href="https://www.linkedin.com/in/gabriel-amara/" alt="Linkedin">
  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-amara/" /></a>
 
 <a href="https://www.instagram.com/gabiel.amara98/"  alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabiel.amara98/"></a>
 
-<hr>
+
 
